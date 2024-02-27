@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState } from 'react'
 import Header from './Components/Header';
 import Body from './Components/Body';
-import { BrowserRouter as Router, Route,Routes,Outlet } from 'react-router-dom'; // Correct imports
+import { BrowserRouter as Router, Route,Routes,Outlet } from 'react-router-dom'; 
 import Contactus from './Components/Contact_us';
 import Aboutus from './Components/Aboutus';
 import Error from './Components/Error';
